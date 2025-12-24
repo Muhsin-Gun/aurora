@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Aurora Trader Pro",
+  "description": "Enterprise-grade, 3D-animated multi-asset trading platform with cinematic space HUD, Veo-powered video education, and institutional DOM execution.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
